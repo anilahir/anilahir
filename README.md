@@ -57,6 +57,13 @@
 | <a href="https://github.com/anilahir/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anilahir&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anil Ahir's Github Stats" /></a> | <a href="https://github.com/anilahir/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anilahir&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
+## ⚡ GitHub Activity
+
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
+
+<br />
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=anilahir/anilahir)
 
 [website]: https://github.com/anilahir
