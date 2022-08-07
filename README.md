@@ -1,4 +1,4 @@
-[![](banner.jpg)][unsplash]
+[![](banner.gif)][unsplash]
 
 # Hi 👋, I am [Anil Ahir][website]
 
@@ -12,8 +12,8 @@
 ## ⚙ Languages
 
 ![NodeJs](https://img.shields.io/badge/-NodeJs-black?style=flat-square&logo=node.js)
-![MySQL](https://img.shields.io/badge/-MySQL-white?style=flat-square&logo=mysql)
-![PHP](https://img.shields.io/badge/-PHP-white?style=flat-square&logo=php)
+![MySQL](https://img.shields.io/badge/-MySQL-134e61?style=flat-square&logo=mysql)
+![PHP](https://img.shields.io/badge/-PHP-2f353b?style=flat-square&logo=php)
 ![Java Script](https://img.shields.io/badge/-Java%20Script-black?style=flat-square&logo=javascript)
 ![HTML](https://img.shields.io/badge/-HTML-white?style=flat-square&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-167dbe?style=flat-square&logo=css3)
@@ -52,15 +52,16 @@
 ## ⚡ GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
+
 1. ⬆️ Pushed 1 commit(s) to [anilahir/anilahir](https://github.com/anilahir/anilahir)
-2. ⬆️ Pushed 1 commit(s) to [anilahir/anilahir](https://github.com/anilahir/anilahir)
-3. ⭐ Starred [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+2. ⭐ Starred [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+3. ⬆️ Pushed 1 commit(s) to [anilahir/anilahir](https://github.com/anilahir/anilahir)
 4. ⬆️ Pushed 1 commit(s) to [anilahir/anilahir](https://github.com/anilahir/anilahir)
 5. ⬆️ Pushed 1 commit(s) to [anilahir/anilahir](https://github.com/anilahir/anilahir)
-<!--RECENT_ACTIVITY:end-->
-<!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, August 7th, 2022, 9:10:10 AM
-<!--RECENT_ACTIVITY:last_update_end-->
+   <!--RECENT_ACTIVITY:end-->
+   <!--RECENT_ACTIVITY:last_update-->
+   Last Updated: Saturday, August 6th, 2022, 6:12:52 PM
+   <!--RECENT_ACTIVITY:last_update_end-->
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=anilahir/anilahir)
 
