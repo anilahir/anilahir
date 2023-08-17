@@ -57,7 +57,7 @@
 Last Updated: Thursday, August 17th, 2023, 2:33:30 PM
    <!--RECENT_ACTIVITY:last_update_end-->
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=anilahir/anilahir)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=anilahir/anilahir)
 
 [unsplash]: https://unsplash.com/@benkolde?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText
 [website]: https://github.com/anilahir
