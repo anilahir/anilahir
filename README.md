@@ -52,9 +52,11 @@
 ## ⚡ GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
+1. ⭐ Starred [nestjs/nest](https://github.com/nestjs/nest)<br>
+2. ⭐ Starred [laravel/laravel](https://github.com/laravel/laravel)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, August 17th, 2023, 2:33:30 PM
+Last Updated: Thursday, August 17th, 2023, 3:08:24 PM
    <!--RECENT_ACTIVITY:last_update_end-->
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=anilahir/anilahir)
