@@ -52,11 +52,14 @@
 ## ⚡ GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [nestjs/nest](https://github.com/nestjs/nest)<br>
-2. ⭐ Starred [laravel/laravel](https://github.com/laravel/laravel)<br>
+1. ⭐ Starred [microsoft/vscode](https://github.com/microsoft/vscode)<br>
+2. ⭐ Starred [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban)<br>
+3. ⭐ Starred [gofiber/fiber](https://github.com/gofiber/fiber)<br>
+4. ⭐ Starred [nestjs/awesome-nestjs](https://github.com/nestjs/awesome-nestjs)<br>
+5. ⭐ Starred [ignited/laravel-omnipay](https://github.com/ignited/laravel-omnipay)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, August 17th, 2023, 3:08:24 PM
+Last Updated: Thursday, August 17th, 2023, 3:33:17 PM
    <!--RECENT_ACTIVITY:last_update_end-->
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=anilahir/anilahir)
