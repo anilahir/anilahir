@@ -52,14 +52,14 @@
 ## ⚡ GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [nvm-sh/nvm](https://github.com/nvm-sh/nvm)<br>
-2. ⭐ Starred [hehuapei/visitor-badge](https://github.com/hehuapei/visitor-badge)<br>
-3. ⬆️ Pushed 1 commit(s) to [anilahir/anilahir](https://github.com/anilahir/anilahir)<br>
-4. ⭐ Starred [microsoft/vscode](https://github.com/microsoft/vscode)<br>
-5. ⭐ Starred [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban)<br>
+1. 🔱 Forked [anilahir/awesome-nestjs](https://github.com/anilahir/awesome-nestjs) from [nestjs/awesome-nestjs](https://github.com/nestjs/awesome-nestjs)<br>
+2. ⭐ Starred [nvm-sh/nvm](https://github.com/nvm-sh/nvm)<br>
+3. ⭐ Starred [hehuapei/visitor-badge](https://github.com/hehuapei/visitor-badge)<br>
+4. ⬆️ Pushed 1 commit(s) to [anilahir/anilahir](https://github.com/anilahir/anilahir)<br>
+5. ⭐ Starred [microsoft/vscode](https://github.com/microsoft/vscode)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, September 20th, 2023, 2:34:29 PM
+Last Updated: Wednesday, September 20th, 2023, 3:09:18 PM
    <!--RECENT_ACTIVITY:last_update_end-->
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=anilahir/anilahir)
