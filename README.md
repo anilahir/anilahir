@@ -54,12 +54,12 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [anilahir/nestjs-authentication-and-authorization](https://github.com/anilahir/nestjs-authentication-and-authorization)<br>
 2. ⬆️ Pushed 1 commit(s) to [anilahir/nestjs-authentication-and-authorization](https://github.com/anilahir/nestjs-authentication-and-authorization)<br>
-3. 💪 Opened PR [#260](https://github.com/nestjs/awesome-nestjs/pull/260) in [nestjs/awesome-nestjs](https://github.com/nestjs/awesome-nestjs)<br>
-4. ⬆️ Pushed 1 commit(s) to [anilahir/awesome-nestjs](https://github.com/anilahir/awesome-nestjs)<br>
-5. 🔱 Forked [anilahir/awesome-nestjs](https://github.com/anilahir/awesome-nestjs) from [nestjs/awesome-nestjs](https://github.com/nestjs/awesome-nestjs)<br>
+3. ⬆️ Pushed 1 commit(s) to [anilahir/nestjs-authentication-and-authorization](https://github.com/anilahir/nestjs-authentication-and-authorization)<br>
+4. ⬆️ Pushed 1 commit(s) to [anilahir/nestjs-authentication-and-authorization](https://github.com/anilahir/nestjs-authentication-and-authorization)<br>
+5. 💪 Opened PR [#260](https://github.com/nestjs/awesome-nestjs/pull/260) in [nestjs/awesome-nestjs](https://github.com/nestjs/awesome-nestjs)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, October 3rd, 2023, 9:09:00 AM
+Last Updated: Tuesday, October 3rd, 2023, 9:33:39 AM
    <!--RECENT_ACTIVITY:last_update_end-->
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=anilahir/anilahir)
