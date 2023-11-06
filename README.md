@@ -53,13 +53,13 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [anilahir/nestjs-authentication-and-authorization](https://github.com/anilahir/nestjs-authentication-and-authorization)<br>
-2. 🎉 Merged PR [#33](https://github.com/anilahir/nestjs-authentication-and-authorization/pull/33) in [anilahir/nestjs-authentication-and-authorization](https://github.com/anilahir/nestjs-authentication-and-authorization)<br>
+2. 🎉 Merged PR [#42](https://github.com/anilahir/nestjs-authentication-and-authorization/pull/42) in [anilahir/nestjs-authentication-and-authorization](https://github.com/anilahir/nestjs-authentication-and-authorization)<br>
 3. ⬆️ Pushed 1 commit(s) to [anilahir/nestjs-authentication-and-authorization](https://github.com/anilahir/nestjs-authentication-and-authorization)<br>
-4. 🎉 Merged PR [#32](https://github.com/anilahir/nestjs-authentication-and-authorization/pull/32) in [anilahir/nestjs-authentication-and-authorization](https://github.com/anilahir/nestjs-authentication-and-authorization)<br>
+4. 🎉 Merged PR [#41](https://github.com/anilahir/nestjs-authentication-and-authorization/pull/41) in [anilahir/nestjs-authentication-and-authorization](https://github.com/anilahir/nestjs-authentication-and-authorization)<br>
 5. ⬆️ Pushed 1 commit(s) to [anilahir/nestjs-authentication-and-authorization](https://github.com/anilahir/nestjs-authentication-and-authorization)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, November 6th, 2023, 5:33:16 AM
+Last Updated: Monday, November 6th, 2023, 6:12:28 AM
    <!--RECENT_ACTIVITY:last_update_end-->
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=anilahir/anilahir)
